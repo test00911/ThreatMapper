@@ -13,5 +13,5 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.1 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/weaveworks/scope v1.13.2 // indirect
-	golang.org/x/sys v0.0.0-20200122134326-e047566fdf82 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
